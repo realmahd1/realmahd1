@@ -32,5 +32,5 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ## ⚡ GitHub Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Mahdisaeidi79&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=true&hide=contribs,prs&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Mahdisaeidi79&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdisaeidi79&hide=TeX&layout=compact&theme=dracula)
