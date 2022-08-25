@@ -35,4 +35,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realmahd1&hide=TeX&layout=compact&theme=codeSTACKr)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 23 August 2022 - To: 24 August 2022
+
+Total Time: 2 hrs 8 mins
+
+JavaScript   1 hr 36 mins    >>>>>>>>>>>>>>>>>>>------   74.96 %
+Markdown     23 mins         >>>>>--------------------   18.03 %
+CSS          8 mins          >>-----------------------   06.60 %
+HTML         0 secs          -------------------------   00.41 %
+```
+
 <!--END_SECTION:waka-->
