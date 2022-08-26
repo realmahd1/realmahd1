@@ -3,8 +3,7 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -16,6 +15,5 @@ jobs:
           WAKATIME_API_KEY: 36a6f167-f406-4502-b7ff-72db39d43599
           SHOW_TITLE: true
           BLOCKS: ->
-          TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
