@@ -50,3 +50,5 @@ Bash         1 hr 3 mins     -------------------------   00.69 %
 ```
 
 <!--END_SECTION:waka-->
+
+<img src='https://github.com/realmahd1/profile-stats/blob/output/github-contribution-grid-snake.svg' alt='snake' />
