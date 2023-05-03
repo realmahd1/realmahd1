@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 August 2022 - To: 01 May 2023
+From: 23 August 2022 - To: 02 May 2023
 
-Total Time: 558 hrs 12 mins
+Total Time: 562 hrs 13 mins
 
-JavaScript                 401 hrs 25 mins >>>>>>>>>>>>>>>>>>-------   71.91 %
-TypeScript                 98 hrs 9 mins   >>>>---------------------   17.58 %
-JSON                       18 hrs 35 mins  >------------------------   03.33 %
-Python                     11 hrs 58 mins  >------------------------   02.14 %
-Groovy                     6 hrs           -------------------------   01.08 %
+JavaScript                 404 hrs 52 mins >>>>>>>>>>>>>>>>>>-------   72.01 %
+TypeScript                 98 hrs 20 mins  >>>>---------------------   17.49 %
+JSON                       18 hrs 46 mins  >------------------------   03.34 %
+Python                     11 hrs 58 mins  >------------------------   02.13 %
+Groovy                     6 hrs 10 mins   -------------------------   01.10 %
 XML                        3 hrs 39 mins   -------------------------   00.65 %
 ```
 
