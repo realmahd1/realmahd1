@@ -32,7 +32,7 @@
 ## ⚡ GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=realmahd1&show_icons=true&theme=codeSTACKr&hide_rank=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realmahd1&hide=TeX&layout=compact&theme=codeSTACKr)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=realmahd1&theme=codeSTACKr&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 
