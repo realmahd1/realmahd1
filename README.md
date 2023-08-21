@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2023 - To: 19 August 2023
+From: 21 July 2023 - To: 20 August 2023
 
-Total Time: 164 hrs 25 mins
+Total Time: 165 hrs 39 mins
 
-TypeScript                    81 hrs 27 mins  >>>>>>>>>>>>-------------   49.54 %
-JavaScript                    74 hrs 21 mins  >>>>>>>>>>>--------------   45.23 %
-JSON                          2 hrs 30 mins   -------------------------   01.53 %
-CSS                           1 hr 44 mins    -------------------------   01.06 %
-Markdown                      45 mins         -------------------------   00.46 %
+TypeScript                    85 hrs 35 mins  >>>>>>>>>>>>>------------   51.67 %
+JavaScript                    71 hrs 22 mins  >>>>>>>>>>>--------------   43.08 %
+JSON                          2 hrs 37 mins   -------------------------   01.59 %
+CSS                           1 hr 44 mins    -------------------------   01.05 %
+Markdown                      39 mins         -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
