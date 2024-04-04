@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2024 - To: 02 April 2024
+From: 04 March 2024 - To: 03 April 2024
 
-Total Time: 32 hrs 20 mins
+Total Time: 32 hrs 48 mins
 
-JavaScript   27 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.35 %
-TypeScript   2 hrs 58 mins   >>-----------------------   09.19 %
-CSS          29 mins         -------------------------   01.50 %
-Text         19 mins         -------------------------   00.98 %
-Bash         13 mins         -------------------------   00.72 %
+JavaScript       25 hrs 16 mins  >>>>>>>>>>>>>>>>>>>------   77.01 %
+TypeScript       5 hrs 22 mins   >>>>---------------------   16.36 %
+CSS              46 mins         >------------------------   02.35 %
+Text             19 mins         -------------------------   00.97 %
+Bash             13 mins         -------------------------   00.71 %
 ```
 
 <!--END_SECTION:waka-->
