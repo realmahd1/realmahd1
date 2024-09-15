@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2024 - To: 13 September 2024
+From: 15 August 2024 - To: 14 September 2024
 
-Total Time: 95 hrs 34 mins
+Total Time: 94 hrs 12 mins
 
-TypeScript        60 hrs 7 mins   >>>>>>>>>>>>>>>>---------   62.92 %
-JavaScript        31 hrs 26 mins  >>>>>>>>-----------------   32.89 %
-JSON              2 hrs 44 mins   >------------------------   02.87 %
-Bash              13 mins         -------------------------   00.23 %
+TypeScript        56 hrs 11 mins  >>>>>>>>>>>>>>>----------   59.64 %
+JavaScript        34 hrs          >>>>>>>>>----------------   36.10 %
+JSON              2 hrs 44 mins   >------------------------   02.92 %
+Bash              14 mins         -------------------------   00.25 %
 textmate          13 mins         -------------------------   00.23 %
 ```
 
