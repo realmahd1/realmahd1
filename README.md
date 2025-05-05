@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 03 May 2025
+From: 04 April 2025 - To: 04 May 2025
 
-Total Time: 26 hrs 41 mins
+Total Time: 29 hrs 19 mins
 
-JavaScript        11 hrs 16 mins  >>>>>>>>>>>--------------   42.23 %
-JSON              5 hrs 50 mins   >>>>>--------------------   21.90 %
-TypeScript        4 hrs 48 mins   >>>>>--------------------   18.01 %
-Groovy            1 hr 25 mins    >------------------------   05.34 %
-XML               52 mins         >------------------------   03.30 %
+JavaScript        12 hrs 4 mins   >>>>>>>>>>---------------   41.19 %
+TypeScript        6 hrs 38 mins   >>>>>>-------------------   22.63 %
+JSON              5 hrs 50 mins   >>>>>--------------------   19.93 %
+Groovy            1 hr 25 mins    >------------------------   04.86 %
+XML               52 mins         >------------------------   03.01 %
 ```
 
 <!--END_SECTION:waka-->
