@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2025 - To: 07 August 2025
+From: 09 July 2025 - To: 08 August 2025
 
-Total Time: 98 hrs 37 mins
+Total Time: 95 hrs 23 mins
 
-TypeScript                 33 hrs 54 mins  >>>>>>>>>----------------   34.37 %
-JavaScript                 23 hrs 1 min    >>>>>>-------------------   23.34 %
-PHP                        21 hrs 58 mins  >>>>>>-------------------   22.28 %
-Blade Template             7 hrs 17 mins   >>-----------------------   07.39 %
-Bash                       4 hrs 9 mins    >------------------------   04.22 %
+TypeScript                 30 hrs 39 mins  >>>>>>>>-----------------   32.15 %
+JavaScript                 23 hrs 1 min    >>>>>>-------------------   24.13 %
+PHP                        21 hrs 58 mins  >>>>>>-------------------   23.04 %
+Blade Template             7 hrs 17 mins   >>-----------------------   07.64 %
+Bash                       4 hrs 9 mins    >------------------------   04.36 %
 ```
 
 <!--END_SECTION:waka-->
