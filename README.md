@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2025 - To: 02 December 2025
+From: 03 November 2025 - To: 03 December 2025
 
-Total Time: 118 hrs 22 mins
+Total Time: 120 hrs 11 mins
 
-TypeScript                 35 hrs 21 mins  >>>>>>>------------------   29.87 %
-JavaScript                 26 hrs 51 mins  >>>>>>-------------------   22.68 %
-Other                      19 hrs 38 mins  >>>>---------------------   16.59 %
-PHP                        17 hrs 43 mins  >>>>---------------------   14.97 %
-CSV                        5 hrs 42 mins   >------------------------   04.82 %
+TypeScript                 33 hrs 28 mins  >>>>>>>------------------   27.86 %
+JavaScript                 27 hrs 36 mins  >>>>>>-------------------   22.97 %
+Other                      22 hrs 32 mins  >>>>>--------------------   18.76 %
+PHP                        17 hrs 43 mins  >>>>---------------------   14.74 %
+CSV                        5 hrs 45 mins   >------------------------   04.79 %
 ```
 
 <!--END_SECTION:waka-->
