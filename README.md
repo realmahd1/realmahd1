@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 21 January 2026
+From: 23 December 2025 - To: 22 January 2026
 
-Total Time: 69 hrs 6 mins
+Total Time: 63 hrs 37 mins
 
-Go                         47 hrs 51 mins  >>>>>>>>>>>>>>>>>--------   69.24 %
-PHP                        8 hrs 45 mins   >>>----------------------   12.67 %
-CSV                        3 hrs 38 mins   >------------------------   05.27 %
-TypeScript                 3 hrs 35 mins   >------------------------   05.20 %
-JavaScript                 3 hrs 11 mins   >------------------------   04.62 %
+Go                         42 hrs 36 mins  >>>>>>>>>>>>>>>>>--------   66.98 %
+PHP                        8 hrs 45 mins   >>>----------------------   13.76 %
+CSV                        3 hrs 38 mins   >------------------------   05.72 %
+TypeScript                 3 hrs 26 mins   >------------------------   05.41 %
+JavaScript                 3 hrs 11 mins   >------------------------   05.02 %
 ```
 
 <!--END_SECTION:waka-->
