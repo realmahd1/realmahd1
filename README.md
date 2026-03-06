@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 04 March 2026
+From: 03 February 2026 - To: 05 March 2026
 
-Total Time: 159 hrs 11 mins
+Total Time: 154 hrs 48 mins
 
-Go                         79 hrs 5 mins         >>>>>>>>>>>>-------------   49.68 %
-CSV                        49 hrs 8 mins         >>>>>>>>-----------------   30.87 %
-JavaScript                 14 hrs 39 mins        >>-----------------------   09.21 %
-TypeScript                 10 hrs 6 mins         >>-----------------------   06.35 %
-Bash                       3 hrs 9 mins          -------------------------   01.99 %
+Go                         76 hrs 8 mins         >>>>>>>>>>>>-------------   49.18 %
+CSV                        47 hrs 49 mins        >>>>>>>>-----------------   30.89 %
+JavaScript                 14 hrs 33 mins        >>-----------------------   09.40 %
+TypeScript                 10 hrs 6 mins         >>-----------------------   06.53 %
+Bash                       3 hrs 8 mins          >------------------------   02.03 %
 ```
 
 <!--END_SECTION:waka-->
