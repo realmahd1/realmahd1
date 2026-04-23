@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2026 - To: 21 April 2026
+From: 23 March 2026 - To: 22 April 2026
 
-Total Time: 3 hrs 5 mins
+Total Time: 5 hrs 41 mins
 
-PHP          2 hrs 34 mins         >>>>>>>>>>>>>>>>>>>>>----   83.33 %
-Docker       12 mins               >>-----------------------   06.56 %
-JavaScript   9 mins                >------------------------   05.12 %
-JSON         9 mins                >------------------------   04.98 %
-Bash         0 secs                -------------------------   00.01 %
+PHP          3 hrs 49 mins         >>>>>>>>>>>>>>>>>--------   67.37 %
+JSON         1 hr 14 mins          >>>>>--------------------   21.86 %
+Gosu         14 mins               >------------------------   04.35 %
+Docker       12 mins               >------------------------   03.57 %
+JavaScript   9 mins                >------------------------   02.79 %
 ```
 
 <!--END_SECTION:waka-->
