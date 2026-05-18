@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2026 - To: 16 May 2026
+From: 17 April 2026 - To: 17 May 2026
 
-Total Time: 102 hrs 6 mins
+Total Time: 109 hrs 20 mins
 
-TypeScript       40 hrs 18 mins        >>>>>>>>>>---------------   39.48 %
-PHP              35 hrs 9 mins         >>>>>>>>>----------------   34.44 %
-JavaScript       10 hrs 57 mins        >>>----------------------   10.73 %
-JSON             5 hrs 6 mins          >------------------------   05.01 %
-Bash             3 hrs 4 mins          >------------------------   03.02 %
+TypeScript                 41 hrs 23 mins        >>>>>>>>>----------------   37.86 %
+PHP                        36 hrs 49 mins        >>>>>>>>-----------------   33.67 %
+JavaScript                 12 hrs 16 mins        >>>----------------------   11.23 %
+JSON                       5 hrs 39 mins         >------------------------   05.18 %
+Docker                     4 hrs 30 mins         >------------------------   04.12 %
 ```
 
 <!--END_SECTION:waka-->
