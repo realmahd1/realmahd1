@@ -3,12 +3,13 @@
 <a href="https://www.linkedin.com/in/mmsaeidi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 [![](https://img.shields.io/website?color=000000&style=flat-square&up_message=Portfolio&url=https://mmsaeidi.ir)](https://mmsaeidi.ir)
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+💻 Full-Stack Developer with a strong focus on PHP, Laravel, React, Next.js, Node.js REST APIs, and production web applications.
 
-:computer: 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [EbtekarAfagh](https://github.com/EbtekarAfagh).
+🚀 I build and maintain real-world applications across the full development lifecycle — from frontend interfaces and backend APIs to databases, authentication, payments, debugging, CI/CD, and Linux-based deployments.
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑹𝒆𝒂𝒄𝒕 𝒋𝒔 𝒂𝒏𝒅 𝑵𝒆𝒙𝒕 𝒋𝒔.
+🛠️ My main stack includes PHP, Laravel, JavaScript, TypeScript, React, Next.js, Node.js, SQL Server, MySQL, Docker, Git, and GitHub Actions.
 
+🔧 I enjoy solving production issues, improving existing systems, optimizing performance, and turning complex business requirements into reliable, maintainable software.
 
 ## ⚡ Technologies
 
