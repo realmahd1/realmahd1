@@ -3,11 +3,11 @@
 <a href="https://www.linkedin.com/in/mmsaeidi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 [![](https://img.shields.io/website?color=000000&style=flat-square&up_message=Portfolio&url=https://mmsaeidi.ir)](https://mmsaeidi.ir)
 
-💻 Full-Stack Developer with a strong focus on PHP, Laravel, React, Next.js, Node.js REST APIs, and production web applications.
+💻 Full-Stack Developer with a strong focus on React, Next.js, Laravel, Node.js REST APIs, and production web applications.
 
 🚀 I build and maintain real-world applications across the full development lifecycle — from frontend interfaces and backend APIs to databases, authentication, payments, debugging, CI/CD, and Linux-based deployments.
 
-🛠️ My main stack includes PHP, Laravel, JavaScript, TypeScript, React, Next.js, Node.js, SQL Server, MySQL, Docker, Git, and GitHub Actions.
+🛠️ My main stack includes JavaScript, TypeScript, React, Next.js, Node.js, Laravel, SQL Server, MySQL, Docker, Git, and GitHub Actions.
 
 🔧 I enjoy solving production issues, improving existing systems, optimizing performance, and turning complex business requirements into reliable, maintainable software.
 
